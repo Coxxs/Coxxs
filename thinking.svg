@@ -3,7 +3,7 @@
     <style>
       text {
         font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
-        font-size: 14px;
+        font-size: 13px;
         font-weight: 400;
       }
     </style>
@@ -54,5 +54,6 @@
     }
   </style>
 </svg>
+
 
 
