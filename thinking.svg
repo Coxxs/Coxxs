@@ -1,16 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 28" width="120" height="28">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 28" width="120" height="26">
   <defs>
     <style>
       text {
         font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
-        font-size: 15px;
+        font-size: 14px;
         font-weight: 400;
       }
     </style>
 
     <linearGradient id="shimmer-light" x1="0%" y1="0%" x2="100%" y2="0%"
                     gradientUnits="userSpaceOnUse"
-                    x="0" y="0" width="120" height="24">
+                    x="0" y="0" width="120" height="26">
       <stop offset="0%"   stop-color="#616161"/>
       <stop offset="50%"  stop-color="#c0c0c0"/>
       <stop offset="100%" stop-color="#616161"/>
@@ -23,7 +23,7 @@
 
     <linearGradient id="shimmer-dark" x1="0%" y1="0%" x2="100%" y2="0%"
                     gradientUnits="userSpaceOnUse"
-                    x="0" y="0" width="120" height="24">
+                    x="0" y="0" width="120" height="26">
       <stop offset="0%"   stop-color="#9e9e9e"/>
       <stop offset="50%"  stop-color="#e0e0e0"/>
       <stop offset="100%" stop-color="#9e9e9e"/>
@@ -35,11 +35,11 @@
     </linearGradient>
   </defs>
 
-  <text x="0" y="20"
+  <text x="0" y="18"
         fill="url(#shimmer-light)"
         class="thinking-text light-text">Thinking...</text>
 
-  <text x="0" y="20"
+  <text x="0" y="18"
         fill="url(#shimmer-dark)"
         class="thinking-text dark-text">Thinking...</text>
 
@@ -54,3 +54,4 @@
     }
   </style>
 </svg>
+
